@@ -1,0 +1,21 @@
+.Order{
+    width: 30%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding:10px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    float: right;
+
+}
+.Pending{
+    width: 30%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding:10px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    float: left;
+    /* display: inline; */
+    
+}
